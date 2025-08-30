@@ -1,0 +1,5 @@
+name: LocalGlobalChat
+version: '1.0-LocalGlobalChat'
+main: me.dedis34.localGlobalChat.LocalGlobalChat
+api-version: '1.21'
+description: API for global and local chat around specific world (Multiverse compatible)

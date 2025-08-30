@@ -1,0 +1,4 @@
+worlds:
+  world: # enter world name, type String
+    radius: # enter local range in blocks, type int
+  # possible to enter more worlds
